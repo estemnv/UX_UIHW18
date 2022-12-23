@@ -1,0 +1,591 @@
+.body {
+    width: 1512px;
+}
+
+.headnav {
+    color: white;
+    width: 1512px;
+    height: 110px;
+    left: 0;
+    top: 0;
+}
+.logo {
+    
+}
+.headnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family:'Montserrat', sans-serif;
+    font-family: 400;
+    
+}
+.headnav a:hover {
+    background-color: #98ad39;
+    color: white;
+    transition: all 0.3s ease 0s;
+    font-size: 18px;
+    
+}
+.topnav-right {
+    float: right;
+}
+
+.Donatehero {
+    background-color: #355e3b;
+    
+    position: absolute;
+    width: 1512px;
+    height: 910px;
+    top: 112px;
+    left: 0px;
+    right: 0px;
+    
+}
+.Donatehero h1 {
+    font-size: 48px;
+    color: white;
+    font-family: 'Lilita One', cursive;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+
+}
+.Donatehero h2 {
+    font-size: 32px;
+    color: white;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    position: absolute;
+    top: 430px;
+    left: 15px;
+}
+.Donatehero p {
+
+    width: 325px;
+    color: white;
+    font-size: 16px;
+    height: 230px;
+    font-family: 'Montserrat' , sans-serif;
+    position: absolute;
+    top: 500px;
+    left: 20px; 
+}
+
+.button1 {
+    background-color: #b26466;
+    border-radius: 35px;
+    width: 228px;
+    height: 54px;
+    padding: 10px 35px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    display:inline-block;
+   border: none;
+   font-size: 24px;
+   font-weight: 400;
+   color: white;
+   line-height: 29px;
+   position: absolute;
+   top: 750px;
+   left: 600px;
+   right: 500px;
+   
+
+
+}
+
+.gloves {
+    height: 910px;
+    position: absolute;
+    top: 1px;
+    left: 459px;
+    width: 1053px;
+}
+
+.aheart {
+    position: absolute;
+    top: 40px ;
+    left: 350px;
+}
+
+.heart2 {
+    position: absolute;
+    top: 550px;
+    left:380px;
+}
+.heart3 {
+    position: absolute;
+    top: 649px;
+    left: 340px;
+}
+
+.donatenowform{
+    background-color: #D8E1de;
+    width: 1512px;
+    height: 2000px;
+
+}
+
+
+.checklist {
+font-family: 'Montserrat', sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: 16px;
+line-height: 22px;
+padding-top: 40px;
+padding-inline-start: 40px;
+position: absolute;
+top: 140px ;
+left:107px ;
+
+}
+
+.checklist p {
+   position: absolute;
+   top: 70px;
+   left: 98px;
+   width: 453px;
+   font-size: 16px;
+   font-weight: 10;
+   color: #161916;
+
+}
+.checklist p4 {
+    position: absolute;
+    top: 160px;
+    left:98px ;
+    width: 453px;
+   font-size: 16px;
+   font-weight: 10;
+   color: #161916;
+
+}
+.checklist p5 {
+    position: absolute;
+    top: 230px;px ;
+    left:98px ;
+    width: 530px ;
+    font-size: 16px;
+    font-weight: 10;
+    color: #161916;
+}
+.checklist p6 {
+    position: absolute;
+    top:305px ;
+    left: 98px;
+    width: 530px;
+    font-size: 16px;
+    font-weight: 10;
+    color:#161916
+}
+
+.checklist p7 {
+    position: absolute;
+    top: 380px ;
+    left: 98px ;
+    width:530px ;
+    font-size: 16px;
+    font-weight: 10;
+    color: #161916;
+}
+.checklist p8 {
+    position: absolute;
+    top:452px ;
+    left:98px ;
+    width: 500px;
+    font-size: 16px;
+    font-weight: 10;
+    color: #161916;
+}
+.checklist p9 {
+    position: absolute;
+    top: 527px ;
+    left: 98px;
+    width: 500px;
+    font-size: 16px;
+    font-weight: 10;
+    color: #161916;
+}
+ #div1 {
+
+   box-sizing: border-box;
+
+ }
+ .tb {
+    border: 3px solid #161916;
+    width: 359px;
+    height: 32px;
+ }
+
+
+.p12 {
+    font-size: 16px;
+    margin-right: 240px;
+}
+.form {
+    width: 1264px;
+    height: 791px;
+    position: absolute;
+    top: 1170px ;
+    left: 130px ;
+    background-color: white;
+    border: 5px  solid #355e3b;
+    border-radius: 2px;
+    box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+
+
+}
+.form h5 {
+    color: #355e3b;
+    font-family:  'Lilita One', cursive;
+    position: absolute;
+    top: -10px;
+    left: 120px;
+    font-size: 48px;
+    line-height: 55px;
+
+}
+.form h6 {
+    color:black ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 80px;
+    left: 150px;
+}
+
+.form h7 {
+    color: #355e3b;
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 32px;
+    position: absolute;
+    top: 400px ;
+    left: 800px;
+    width: 337px;
+
+}
+.form img {
+    position: absolute;
+    top:100px;
+    left: 800px;
+}
+
+.button2 {
+background-color: #355e3b;
+    border-radius: 35px;
+    width: 117px;
+    height: 41px;
+    padding: 5px 10px;
+    gap: 4px;
+    justify-content:center;
+    align-items:center;
+    display:inline-block;
+   border: none;
+   font-size: 15px;
+   font-weight: 33px;
+   color: white;
+   line-height: 29px;
+   flex-direction: row;
+   position: absolute;
+   top: 470px;
+   left: 750px;
+   font-family:'Monsterrat', sans-serif;
+
+}
+.button3 {
+    background-color: white;
+    border-radius: 35px;
+    border: 4px solid #355e3b;
+    box-shadow: 2px 6px 6px rgba(red, green, blue, alpha);
+    width: 117px;
+    height: 42px;
+    font-family:'Monsterrat', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    color: #355e3b;
+    position: absolute;
+    top: 470px;
+    left: 876px;
+}
+
+.button4 {
+    background-color: white;
+    border-radius: 35px;
+    border: 4px solid #355e3b;
+    box-shadow: 2px 6px 6px rgba(red, green, blue, alpha);
+    width: 117px;
+    height: 42px;
+    font-family:'Monsterrat', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    color: #355e3b;
+    position: absolute;
+    top: 470px;
+    left: 1000px;
+}
+.button5 {
+    background-color: #98ad39;
+    border-radius: 35px;
+    width: 360px;
+    height: 68px;
+    padding: 10px 35px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    display:inline-block;
+   border: none;
+   font-size: 24px;
+   font-weight: 400;
+   color: black;
+   line-height: 29px;
+   position: absolute;
+   top: 560px;
+   left: 760px;
+
+}
+
+
+
+
+
+
+
+.bodybehindcards{
+    background-color: #355e3b;
+    width: 1512px;
+    height: 800px;
+}
+
+.executivecardpink {
+    width: 725px;
+    height: 670px;
+    background-color: #b26466;
+    position: absolute;
+    top:2195px ;
+    left:124px ;
+    border-radius: 4px;
+    box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+
+}
+
+.executivecardpink h8 {
+font-family: 'Monsterrat', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 450;
+width: 333px;
+position: absolute;
+top:80px ;
+left: 400px ;
+
+}
+.executivecardpink img {
+    position: absolute;
+    top: 40px;
+    left: 10px ;
+}
+
+.executivecardpink p2 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    width: 350px;
+    line-height: 20px;
+    position: absolute;
+    top: 200px;
+    left:370px;
+    text-size-adjust: 30px;
+    
+
+}
+.executivecardpink p4 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    width: 490px;
+    position: absolute;
+    left: 160px;
+    top: 350px;
+    line-height: 20px;
+}
+.executivecardpink p5 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    width: 540px;
+    position: absolute;
+    top: 440px;
+    left: 160px ;
+    line-height: 20px;
+}
+
+.executivecardpink p9 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    width: 500px;
+    position: absolute;
+    top: 518px;
+    left: 350px; 
+}
+.executivecardpink h9 {
+    font-family: 'Sacramento',cursive ;
+    font-size: 40px;
+    width: 170px;
+position: absolute;
+top: 540px;
+left: 370px;
+transform: matrix(0.80, -0.20, 0.13, 1, 0, 0);
+}
+
+.executivecardpink h10 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    width: 500px;
+    position: absolute;
+    top: 609px ;
+    left:358px ;
+}
+
+
+.newsletter {
+    width: 472px;
+    height: 640px;
+    background-color:#D8E1de ;
+    position: absolute;
+    top: 2195px;
+    left: 910px;
+    border: 5px solid #355e3b;
+    border-radius: 5px;
+    box-shadow: 1px 4px 4px 2px rgba(0, 0, 0, 0.25);
+}
+
+.newsletter H11 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 330;
+    
+    width: 469px;
+    position: absolute;
+    top: 230px ;
+    left: 109px;
+
+}
+.newsletter h12 {
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 330;
+    width: 450px;
+    position: absolute;
+    top: 300px; 
+    left: 10px;
+    text-align: center;
+
+}
+.button9 {
+    background-color: #b26466;
+    border-radius: 35px;
+    width: 261px;
+    height: 49px;
+padding: 10px 35px ;
+gap: 10px;
+border: none;
+font-family:'Monsterrat', sans-serif;
+font-size: 25px;
+color: white;
+font-weight: 350;
+position: absolute;
+top: 530px ;
+left: 105px ;
+
+}
+ 
+.newsletter img {
+    position: absolute;
+    top: 50px ;
+    left: 170px;
+
+}
+
+.input2 {
+    border-color: #b26466;
+    border: 3px solid #b26466;
+    font-family: 'Monsterrat', sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 268px;
+    height: 46px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 425px;
+    left: 106px;
+
+
+}
+
+
+
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #d8e1de;
+    height: 223px;
+    width: 1512px;
+    font-family:'Montserrat', sans-serif;
+}
+
+.footer a {
+    padding: 35px 30px;
+    font-family: 'Monsterrat', sans-serif;
+    color: black;
+    text-decoration: none;
+
+}
+.footer-text{
+font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    font-family:'Montserrat', sans-serif;
+    width: 222px;
+    position: absolute;
+    top: 2950px;
+}
+
+.footer img {
+    position: absolute;
+    top: 2980px;
+    left:570px ;
+}
+.contact {
+    position: absolute;
+    left: 500px;
+    font-size: 24px;
+    width: 135px;
+    top: 3040px;
+    left:370px ;
+}
+.Donate {
+    position: absolute;
+    top: 3040px;
+    left:680px;
+    font-size:24px;
+    width: 135px;
+}
+.about {
+    font-size: 24px;
+    width: 135px;
+    top: 3040px;
+    position: absolute;
+    left: 900px;
+
+}
